@@ -4,3 +4,13 @@ data-old/*
 
 # Manter estrutura da pasta data
 !data/.gitkeep
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+**/.DS_Store
