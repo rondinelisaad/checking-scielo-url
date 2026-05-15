@@ -1,0 +1,6 @@
+# Ignorar conteúdo
+data/*
+data-old/*
+
+# Manter estrutura da pasta data
+!data/.gitkeep
